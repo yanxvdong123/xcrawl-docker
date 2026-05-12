@@ -1,0 +1,7 @@
+{
+  "name": "xcrawl-docker-scraper",
+  "version": "1.0.0",
+  "description": "Docker image entrypoint for XCrawl Web Scraping Proxy",
+  "private": true,
+  "dependencies": {}
+}
