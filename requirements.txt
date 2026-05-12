@@ -1,0 +1,2 @@
+# No additional Python deps needed — it's a Node.js image
+# This file is kept for reference. The Dockerfile uses Node.
